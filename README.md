@@ -67,7 +67,7 @@ Currently deep-diving into **systems programming** with **pure C and C++** — o
 
 - 🦾 **Neovim** (with enough plugins to crash your editor)
 - 🧱 **C / C++** (manual memory management is therapy)
-- 🐧 **Linux** (Arch BTW... just kidding, it's macOS. Fight me.)
+- 🐧 **Linux** (Arch BTW alongside MacOS. Fight me.)
 - 🛠️ **Makefiles**, not clicky UIs
 - 🔍 **`strace`, `valgrind`, and `gdb`** — my best friends and mortal enemies
 - 🚫 **No Electron**, no JavaScript frameworks that ship 15MB to say "Hello World"
@@ -124,7 +124,7 @@ Currently deep-diving into **systems programming** with **pure C and C++** — o
 
 ---
 
-## ☠️ Current Status
+## ☠️ Current
 
 ```txt
 > Building a custom OS, writing an API in C, and blaming Windows for everything.
