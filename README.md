@@ -135,14 +135,6 @@ Currently deep-diving into **systems programming** with **pure C and C++** — o
 
 ## 📊 Stats of a terminal goblin
 
-```
-┌─[ GITHUB METRICS ]──────────────────────────────────────────┐
-│ • Commits: █████████▓░░░   72% consistency                  │
-│ • Languages: C, C++, Svelte, Vue                           │
-│ • Git Streak: █████████████▋  347 days                     │
-└─────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbsurdlyUnique&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsurdlyUnique&theme=transparent&hide_border=true" alt="Top Languages" />
