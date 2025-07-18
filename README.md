@@ -1,4 +1,4 @@
-# 👋 Welcome to the command line dimension
+# 👋 Welcome
 > "Why use an IDE when you can suffer beautifully in Neovim?"
 
 ```
